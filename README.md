@@ -1,3 +1,3 @@
 # P-value Calculator
 
-A simple statistical tool for p-value estimation, adapted and implemented in Python based on existing code. The project focuses on understanding hypothesis testing concepts and translating statistical logic into a functional calculation tool.
+A statistical tool for estimating p-values, adapted and implemented in Python based on existing code. Developed as a learning exercise to explore hypothesis testing and translate statistical concepts into a functional calculation tool.
